@@ -199,7 +199,7 @@ main {
 }
 
 .project-card:hover {
-  transform: scale(1.01)
+  transform: scale(1.01);
 }
 
 .project-card:hover h3 {
